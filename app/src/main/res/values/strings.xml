@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="cities">
+        <item>Moscow</item>
+        <item>Boston</item>
+        <item>London</item>
+    </string-array>
+    <string name="weather_api_key">a5e21c1ae2a4a720c951faab7f681fe2</string>
+    <string name="weather_icon">weather_icon</string>
+    <string name="min_max_temp">%s / %s</string>
+    <string name="detail_info">Detail information:</string>
+    <string name="wind">Wind:</string>
+    <string name="wind_value">%sm/s</string>
+    <string name="pressure">Pressure:</string>
+    <string name="pressure_value">%smbar</string>
+    <string name="humidity">Humidity:</string>
+    <string name="humidity_value">%s</string>
+    <string name="forecast_3_days">Forecast on 3 days:</string>
+    <string name="action_update">update</string>
+</resources>
